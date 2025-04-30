@@ -1,0 +1,7 @@
+model_name: small
+dataset_path: /workspace/doom_tokens
+epochs: 3
+batch_size: 1
+learning_rate: 5e-5
+output_dir: /workspace/doom_finetuned
+save_every_n_epochs: 1
